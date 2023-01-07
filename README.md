@@ -1,2 +1,3 @@
 # 50 Startups - Multiple Linear Regression
- Multiple Linear Regression model with 50 Startups Dataset
+ 
+ It is a basic example of Multiple Linear Regression Machine Learning Model with simple 50 Startups Dataset
